@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Bulky.DataAccess/Bulky.DataAccess.csproj" Id="a315b8e0-0405-4ba2-972a-3639411e33f3" />
+  <Project Path="Bulky.Models/Bulky.Models.csproj" Id="0d6dcae1-3c00-4b05-a996-a82d29f88dbc" />
+  <Project Path="Bulky.Utility/Bulky.Utility.csproj" Id="fb805649-f1c5-4de0-af77-dc3d771ff9d5" />
+  <Project Path="BulkyWeb/BulkyWeb.csproj" />
+  <Project Path="DI_Service_Lifetime/DI_Service_Lifetime.csproj" Id="3f68bb70-9823-479e-9ffd-15da5173f99e" />
+</Solution>
